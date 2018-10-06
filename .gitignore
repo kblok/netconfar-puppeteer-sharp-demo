@@ -1,0 +1,6 @@
+hacking-the-browser.userprefs
+DespegarChecker/.local-chromium
+bin/
+obj/
+.local-chromium/
+packages
